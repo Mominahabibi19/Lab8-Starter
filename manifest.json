@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Madhoolika Momina",
     "description": "our PWA",
-    "start_url": "",
+    "start_url": "http://127.0.0.1:5500/index.html",
     "display": "standalone",
     "background_color": "ffffff",
     "theme_color": "ff0000",
